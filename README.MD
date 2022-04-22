@@ -12,7 +12,7 @@ Modo Desktop:
 (https://i.gyazo.com/fe4c8d18cf1afe34ee770378beda3422.gif)](https://gyazo.com/fe4c8d18cf1afe34ee770378beda3422)
 
 Modo Mobile:
-(https://i.gyazo.com/7adb9f28c7e9f3799969f3689fe906a2.gif)](https://gyazo.com/7adb9f28c7e9f3799969f3689fe906a2)
+[![Image from Gyazo](https://i.gyazo.com/7adb9f28c7e9f3799969f3689fe906a2.gif)](https://gyazo.com/7adb9f28c7e9f3799969f3689fe906a2)
 
 # Tecnologias 
 Para a realização deste projeto, foi utilizado apenas **HTML5, CSS3 e Javascript**.
